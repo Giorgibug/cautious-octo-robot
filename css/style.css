@@ -1,0 +1,67 @@
+/*@import url("https://cdn.web-fonts.ge/fonts/gugeshashvili-rachveli/css/gugeshashvili-rachveli.min.css");
+*{*/
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.logo {
+	width: 115px;
+}
+header{
+	height: 250px;
+	background-color: #0020F4;
+	padding: 10px;
+}
+header a{
+	color: #FFFFFF
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+nav li{
+	margin: 8px;
+	font-family: 'HelveticaNeue';
+}
+.butt-on{
+	color: #171717;
+	background-color: #FFFFFF;
+	padding: 7px;
+	border-radius: 28px;
+	font-family: 'HelveticaNeue-bold';
+}
+
+.off-ice{
+	margin-top: -100px;
+	margin-left: 170px;
+	
+}
+#main-text{
+	margin-left: 170px;
+	padding: 20px;
+	font-family: 'HelveticaNeue-bold';
+}
+div{
+	margin: 40px;
+}
+.image-gallery img{
+	padding: 60px;
+}
+.te-xt{
+	margin-top: -200px;
+	padding: 150px;
+}
+.te-xt p{
+	margin: 10px;
+	font-family: 'HelveticaNeue-lt';
+}
+.in-fo{
+	color: #FFFFFF;
+	margin-left: 600px;
+	background-color: #0A22F4;
+	padding: 20px;
+	border-radius: 28px;
+	font-family: 'HelveticaNeue-bold';
+}
