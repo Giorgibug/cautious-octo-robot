@@ -1,5 +1,5 @@
-/*@import url("https://cdn.web-fonts.ge/fonts/gugeshashvili-rachveli/css/gugeshashvili-rachveli.min.css");
-*{*/
+/*@import url("https://cdn.web-fonts.ge/fonts/gugeshashvili-rachveli/css/gugeshashvili-rachveli.min.css");*/
+*{
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
@@ -60,27 +60,17 @@ div{
 	margin-right: auto;
 }
 .image-gallery img{
+	margin: 1px;
 	padding: 60px;
 }
-.te-xt{
+/*.te-xt{
 	margin-top: -200px;
 	padding: 150px;
-}
-.te-xt p{
-	width: 951px;
-	margin-left: auto;
-	margin-right: auto;
+}*/
+.te-xt {
 	margin: 10px;
 	font-family: 'HelveticaNeue-lt';
 }
-/*.in-fo{
-	color: #FFFFFF;
-	margin-left: 600px;
-	background-color: #0A22F4;
-	padding: 20px;
-	border-radius: 28px;
-	font-family: 'HelveticaNeue-bold';
-}*/
 button{
 	width: 341px;
 	height: 55px;
@@ -90,4 +80,32 @@ button{
 	font-family: 'HelveticaNeue-bold';
 	margin-left: auto;
 	margin-right: auto;
+}
+
+footer{
+	width: 1920px;
+	height: 1080px;
+	background-color: #0A22F4;
+	color: #FFFFFF;
+}
+h3{
+	font-family: 'HelveticaNeue-bold';
+}
+.middle{
+	width: 463px;
+	padding: 20px;
+	font-family: 'HelveticaNeue';
+}
+/*iframe{
+	width: 463px;
+}*/
+.circle{
+	background-color: #FFFFFF;
+	padding: 1px;
+	border-radius: 28px;
+	vertical-align: middle;
+}
+#igi{
+	margin: 5px;
+	padding: 10px;
 }
